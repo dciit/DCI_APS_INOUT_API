@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\EKB-Monitor-Backend.props" />
+</Project>

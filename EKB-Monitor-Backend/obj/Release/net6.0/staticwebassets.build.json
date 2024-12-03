@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tSNFrMjI3qplQWF3C3n0deN6XVbGi3frXcmeKr7UI6Q=",
+  "Source": "EKB-Monitor-Backend",
+  "BasePath": "_content/EKB-Monitor-Backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
